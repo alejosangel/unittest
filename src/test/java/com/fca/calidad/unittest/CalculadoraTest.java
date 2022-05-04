@@ -84,7 +84,7 @@ public class CalculadoraTest {
 		
 		//Ejercicio, llamada del codigo que vamos a probar
 		double resultadoEjecucion = miCalculadora.division(8,2);
-		double resultadoEsperado = 4;
+		double resultadoEsperado = 5;
 		
 		//verificacion, comparar resultadoEjecucion con resultadoEsperado
 		
